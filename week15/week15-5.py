@@ -11,4 +11,3 @@ class Solution:
                     j += 1     # 尾巴j 往右縮
             ans = max(ans, i-j+1) # 頭i - 尾j + 1 就是毛毛蟲的長度
         return ans
-        

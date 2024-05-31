@@ -12,4 +12,4 @@ int equalSubstring(char* s, char* t, int maxCost) {
         if(i-j+1>ans) ans = i-j+1;
     }
     return ans; //課堂作業1, 隨便給個0當答案(答案當然不對)
-}
+} 
