@@ -1,4 +1,4 @@
-///week-3.cpp 剝皮法, 也要做迴文判斷
+///week-3.cpp 剝皮法, 也要做迴文判斷 
 #include <stdio.h>
 int main()
 {

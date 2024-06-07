@@ -1,4 +1,4 @@
-#week13-5a.cpp
+//week13-5a.cpp
 #include <string.h>
 #include <stdio.h>
 int main()

@@ -23,5 +23,5 @@ int main()
     ///  1      8
     /// 0        9
     if(bad==1) printf("NO\n");
-    else printf("YES\n");
+    else printf("YES\n"); 
 }

@@ -1,5 +1,5 @@
 ///week13-2b.cpp 希望字串很長, <10位數
-///Q1: 有多長? Q2:怎麼判斷
+///Q1: 有多長? Q2:怎麼判斷 
 #include <string.h>
 #include <Stdio.h>
 int main()
